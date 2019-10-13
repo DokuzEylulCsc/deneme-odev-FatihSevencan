@@ -1,4 +1,4 @@
-# Ödev 1
+# Ödev 1  öğrenci no : 2017280067 
 Dönemin ilk ödevi için, klasörde HTML dosyası olarak verilmiş web sayfası içerisinde,
 1.	“Topla” düğmesine basınca “Metin Kutusu 1“ ve “Metin Kutusu 2” içerisine yazılmış iki sayıyı toplayarak sonucu “alert()” metodunu kullanarak ekrana çıkaran JavaScript kodunu yazınız. 
 2.	“Yapıştır” düğmesine basınca “Metin Kutusu 3“ ve “Metin Kutusu 4” içerisine yazılmış iki metin değerini birleştirerek sonucu “alert()” metodunu kullanarak ekrana çıkaran JavaScript kodunu yazınız.
